@@ -958,7 +958,7 @@ As mentioned by Dan Kaminsky at: https://cirosantilli.com/cool-data-embedded-in-
 Services that can be used to easily view this data online include:
 
 * http://bitfossil.org/ is a website that indexes especially formatted images uploaded to the blockchaian.
-* https://bitcoinstrings.com/ dumps all ASCII printable strings of length 20 ore more online
+* https://bitcoinstrings.com/ dumps all ASCII printable strings of length 20 or more online
 
 We have been able to find the following anti-CCP information in the blockchain so far:
 
